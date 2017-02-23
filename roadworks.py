@@ -1,0 +1,16 @@
+class RoadWorks:
+   def __init__(self):
+      self.reference_number ="" 
+      self.road  =""
+      self.local_authority =""
+      self.location  =""
+      self.start_date  =""
+      self.end_date  =""
+      self.expedcted_date  =""
+      self.description  =""
+      self.traffic_management  =""
+      self.closure_type  =""
+      self.centre_easting  =""
+      self.centre_northing  =""
+      self.status  =""
+      self.published_date  =""
